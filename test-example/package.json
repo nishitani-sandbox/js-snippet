@@ -1,0 +1,11 @@
+{
+  "name": "test-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^1.0.0-beta.8"
+  }
+}
